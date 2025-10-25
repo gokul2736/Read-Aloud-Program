@@ -1,6 +1,10 @@
 # Read-Aloud-Program
 Bot of Read aloud
 
+## Required Audio Software:
+VB - Audio Cable
+https://vb-audio.com/Cable/
+
 ## Installation and Setup
 
 Follow these steps to set up the local environment.
