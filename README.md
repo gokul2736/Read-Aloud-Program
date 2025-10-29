@@ -1,4 +1,5 @@
 # Read-Aloud-Automation
+
 ## Required Audio Software:
 VB - Audio Cable
 https://vb-audio.com/Cable/
@@ -7,6 +8,7 @@ https://vb-audio.com/Cable/
 
 ## Install the Above Software and Restart System for proper Installination
 ## Make Default VB Audio as default Input and Output Audio Source in Control Panel (Mandatory)*
+## In Line 156 Replace LMS domain as per Subject same... Replace line 26,27 with your Credentials
 
 Follow these steps to set up the local environment.
 
