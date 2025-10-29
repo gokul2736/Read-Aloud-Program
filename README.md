@@ -1,11 +1,12 @@
-# Read-Aloud-Program
-Bot of Read aloud
-
+# Read-Aloud-Automation
 ## Required Audio Software:
 VB - Audio Cable
 https://vb-audio.com/Cable/
 
-## Installation and Setup
+### Installation and Setup
+
+## Install the Above Software and Restart System for proper Installination
+## Make Default VB Audio as default Input and Output Audio Source in Control Panel (Mandatory)*
 
 Follow these steps to set up the local environment.
 
@@ -30,7 +31,7 @@ pip install -r requirements.txt
 ```
 
 ### 5. How to Run the Programs
-Example: Running the Runge Kutta's Method
+Idi kuda teliyaka pothe enduku ra batuku...
 ```bash
 python read.py
 ```
