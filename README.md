@@ -8,6 +8,9 @@ https://vb-audio.com/Cable/
 
 ## Install the Above Software and Restart System for proper Installination
 ## Make Default VB Audio as default Input and Output Audio Source in Control Panel (Mandatory)*
+## also here 👇
+<img width="443" height="294" alt="image" src="https://github.com/user-attachments/assets/3e82cb37-bda2-4d89-aeb7-1aa80671c0ed" />
+
 ## In Line 156 Replace LMS domain as per Subject same... Replace line 26,27 with your Credentials
 
 Follow these steps to set up the local environment.
